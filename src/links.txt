@@ -1,0 +1,354 @@
+Code Property Graph Threat Detection (github.com/shiftleftsecurity): https://github.com/ShiftLeftSecurity/codepropertygraph
+
+Docker Cleanup Script for Linux Users (github.com/itayeylath): https://github.com/itayeylath/docker-cleanup-script/blob/main/README.md
+
+Moving to ES6 from CoffeeScript (2015) (gist.github.com): https://gist.github.com/danielgtaylor/0b60c2ed1f069f118562
+
+A simple, efficient and lightweight double screen X window manager (github.com/eliyaan): https://github.com/Eliyaan/tinyvvm
+
+Limine: Legacy-free portable bootloader, supports both Linux and hobby kernels (github.com/limine-bootloader): https://github.com/limine-bootloader/limine
+
+Tlsd: Generate (message) sequence diagrams from TLA+ state traces (github.com/eras): https://github.com/eras/tlsd
+
+Type in Morse code by repeatedly slamming your laptop shut (github.com/veggiedefender): https://github.com/veggiedefender/open-and-shut
+
+Show HN: Open-source AI Search project, ZByAI (github.com/zzzgydi): https://github.com/zzzgydi/zbyai
+
+Show HN: Xvc – CLI tool to manage data and pipelines in Rust (+Python bindings) (github.com/iesahin): https://github.com/iesahin/xvc
+
+Coming soon to Node.js – node:SQLite module (github.com/nodejs): https://github.com/nodejs/node/pull/53752
+
+Logseq – adding settings for self-hosted sync (github.com/logseq): https://github.com/logseq/logseq/discussions/10733
+
+M3: Massey Meta Machine (github.com/wasm3): https://github.com/wasm3/wasm3/blob/main/docs/Interpreter.md
+
+Code Property Graph Threat Detection (github.com/shiftleftsecurity): https://github.com/ShiftLeftSecurity/codepropertygraph
+
+Docker Cleanup Script for Linux Users (github.com/itayeylath): https://github.com/itayeylath/docker-cleanup-script/blob/main/README.md
+
+Moving to ES6 from CoffeeScript (2015) (gist.github.com): https://gist.github.com/danielgtaylor/0b60c2ed1f069f118562
+
+A simple, efficient and lightweight double screen X window manager (github.com/eliyaan): https://github.com/Eliyaan/tinyvvm
+
+Limine: Legacy-free portable bootloader, supports both Linux and hobby kernels (github.com/limine-bootloader): https://github.com/limine-bootloader/limine
+
+Tlsd: Generate (message) sequence diagrams from TLA+ state traces (github.com/eras): https://github.com/eras/tlsd
+
+Cradle framework: a first attempt at General Computer Control (GCC) (github.com/baai-agents): https://github.com/BAAI-Agents/Cradle
+
+Code Property Graph Threat Detection (github.com/shiftleftsecurity): https://github.com/ShiftLeftSecurity/codepropertygraph
+
+Docker Cleanup Script for Linux Users (github.com/itayeylath): https://github.com/itayeylath/docker-cleanup-script/blob/main/README.md
+
+Moving to ES6 from CoffeeScript (2015) (gist.github.com): https://gist.github.com/danielgtaylor/0b60c2ed1f069f118562
+
+A simple, efficient and lightweight double screen X window manager (github.com/eliyaan): https://github.com/Eliyaan/tinyvvm
+
+Limine: Legacy-free portable bootloader, supports both Linux and hobby kernels (github.com/limine-bootloader): https://github.com/limine-bootloader/limine
+
+Tlsd: Generate (message) sequence diagrams from TLA+ state traces (github.com/eras): https://github.com/eras/tlsd
+
+Torch Geopooling: Geospatial Pooling Modules for PyTorch (github.com/ybubnov): https://github.com/ybubnov/torch_geopooling
+
+Cradle framework: a first attempt at General Computer Control (GCC) (github.com/baai-agents): https://github.com/BAAI-Agents/Cradle
+
+Code Property Graph Threat Detection (github.com/shiftleftsecurity): https://github.com/ShiftLeftSecurity/codepropertygraph
+
+Docker Cleanup Script for Linux Users (github.com/itayeylath): https://github.com/itayeylath/docker-cleanup-script/blob/main/README.md
+
+Moving to ES6 from CoffeeScript (2015) (gist.github.com): https://gist.github.com/danielgtaylor/0b60c2ed1f069f118562
+
+A simple, efficient and lightweight double screen X window manager (github.com/eliyaan): https://github.com/Eliyaan/tinyvvm
+
+Limine: Legacy-free portable bootloader, supports both Linux and hobby kernels (github.com/limine-bootloader): https://github.com/limine-bootloader/limine
+
+Tlsd: Generate (message) sequence diagrams from TLA+ state traces (github.com/eras): https://github.com/eras/tlsd
+
+Type in Morse code by repeatedly slamming your laptop shut (github.com/veggiedefender): https://github.com/veggiedefender/open-and-shut
+
+Show HN: Open-source AI Search project, ZByAI (github.com/zzzgydi): https://github.com/zzzgydi/zbyai
+
+Show HN: Xvc – CLI tool to manage data and pipelines in Rust (+Python bindings) (github.com/iesahin): https://github.com/iesahin/xvc
+
+Coming soon to Node.js – node:SQLite module (github.com/nodejs): https://github.com/nodejs/node/pull/53752
+
+Logseq – adding settings for self-hosted sync (github.com/logseq): https://github.com/logseq/logseq/discussions/10733
+
+M3: Massey Meta Machine (github.com/wasm3): https://github.com/wasm3/wasm3/blob/main/docs/Interpreter.md
+
+Show HN: A locally hosted search engine for all your memes (github.com/neonwatty): https://github.com/neonwatty/meme_search
+
+Show HN: I've made LLM generate code for my code generator (github.com/mify-io): https://github.com/mify-io/mify-llm-editor
+
+Brain**** Interpreter in Rust (github.com/sekomer): https://github.com/sekomer/fucker
+
+SchemaFlow: Database schema management / migration tool for SQL-first workflows (github.com/f-prime): https://github.com/f-prime/schemaflow
+
+Himalaya – a Rust CLI to manage emails (github.com/soywod): https://github.com/soywod/himalaya
+
+Show HN: Blitzping – A far faster nping/hping3 SYN-flood alternative with CIDR (github.com/thraetaona): https://github.com/Thraetaona/Blitzping
+
+WhatWeb: Next Generation Web Scanner (2021) (github.com/urbanadventurer): https://github.com/urbanadventurer/WhatWeb
+
+My Notes About: A Curious Moon by Rob Conery (github.com/makomweb): https://github.com/makomweb/curious-moon-exercise
+
+Go Embeddable Redis Alternative (github.com/echovault): https://github.com/EchoVault/EchoVault
+
+Show HN: CLI app for document summary, search and natural language queries (github.com/dylandhall): https://github.com/dylandhall/local-embeddings
+
+Gyopak/Sidellama (github.com/gyopak): https://github.com/gyopak/sidellama
+
+RAG for Multimodal LLMs (github.com/fzliu): https://github.com/fzliu/radient/blob/main/examples/rag_for_multimodal_llms.md
+
+Serves files from GitHub, Bitbucket and Gitlab (github.com/neoascetic): https://github.com/neoascetic/rawgithack
+
+Show HN: Minigrad – a small neural network lib in Golang (github.com/0verread): https://github.com/0verread/minigrad
+
+Panic Portal is a software designed to enable emergency switch (github.com/haydenbanz): https://github.com/haydenbanz/PanicPortal
+
+It's quite fascinating – I fit into a 17.6 MB text file (github.com/0x77dev): https://github.com/0x77dev/dna
+
+Show HN: CMS and other features built with Laravel and livewire (github.com/oitcode): https://github.com/oitcode/Cbswei
+
+I need opinions about my project AI PHP WordPress (github.com/berchj): https://github.com/berchj/AIEntries
+
+Helix (editor) 24.07 is out (github.com/helix-editor): https://github.com/helix-editor/helix/blob/master/CHANGELOG.md
+
+Show HN: I'm measuring energy usage with time during command execution (github.com/zimeg): https://github.com/zimeg/emporia-time
+
+Plot: A minimal terminal charting tool (github.com/archiewood): https://github.com/archiewood/plot
+
+Cloc: Count lines (blank, comment, and physical) of source code (github.com/aldanial): https://github.com/AlDanial/cloc
+
+Show HN: I built a Terraform State remote backend on Cloudflare Workers (github.com/willswire): https://github.com/willswire/estado
+
+Show HN: SchemaFlow – ORM-style migrations for SQL-first developers (github.com/f-prime): https://github.com/f-prime/schemaflow
+
+I made a keyboard shortcut window move/resize tool for Windows (github.com/richardstefun): https://github.com/richardstefun/Neodymium
+
+TUI for Managing Bluetooth on Linux (github.com/pythops): https://github.com/pythops/bluetui
+
+Fusion – A hobby OS implemented in Nim (github.com/khaledh): https://github.com/khaledh/fusion
+
+AWS Dual Stack VPCs with IPAM and Auto Routing in Terraform (github.com/judequintana): https://github.com/JudeQuintana/terraform-main/tree/main/dual_stack_networking_trifecta_demo
+
+OWT: Open WebRTC Toolkit (github.com/open-webrtc-toolkit): https://github.com/open-webrtc-toolkit
+
+Lazywal Terminal CLI – Use video-loops as desktop background (github.com/buddhilw): https://github.com/BuddhiLW/lazywal
+
+Rich-compatible library for writing pixel images and ASCII art to the terminal (github.com/darrenburns): https://github.com/darrenburns/rich-pixels
+
+Show HN: TargetJ – New JavaScript framework that can animate anything (github.com/livetrails): https://github.com/livetrails/targetj
+
+Instructor-Go – Structured LLM Outputs in Go (github.com/instructor-ai): https://github.com/instructor-ai/instructor-go
+
+Show HN: TorchSubmit – Painless multi-node training with PyTorch (no SLURM/K8s) (github.com/dream3d-ai): https://github.com/dream3d-ai/torch-submit
+
+Torch Geopooling: Geospatial Pooling Modules for PyTorch (github.com/ybubnov): https://github.com/ybubnov/torch_geopooling
+
+Cradle framework: a first attempt at General Computer Control (GCC) (github.com/baai-agents): https://github.com/BAAI-Agents/Cradle
+
+Code Property Graph Threat Detection (github.com/shiftleftsecurity): https://github.com/ShiftLeftSecurity/codepropertygraph
+
+Docker Cleanup Script for Linux Users (github.com/itayeylath): https://github.com/itayeylath/docker-cleanup-script/blob/main/README.md
+
+Moving to ES6 from CoffeeScript (2015) (gist.github.com): https://gist.github.com/danielgtaylor/0b60c2ed1f069f118562
+
+A simple, efficient and lightweight double screen X window manager (github.com/eliyaan): https://github.com/Eliyaan/tinyvvm
+
+Limine: Legacy-free portable bootloader, supports both Linux and hobby kernels (github.com/limine-bootloader): https://github.com/limine-bootloader/limine
+
+Tlsd: Generate (message) sequence diagrams from TLA+ state traces (github.com/eras): https://github.com/eras/tlsd
+
+Type in Morse code by repeatedly slamming your laptop shut (github.com/veggiedefender): https://github.com/veggiedefender/open-and-shut
+
+Show HN: Open-source AI Search project, ZByAI (github.com/zzzgydi): https://github.com/zzzgydi/zbyai
+
+Show HN: Xvc – CLI tool to manage data and pipelines in Rust (+Python bindings) (github.com/iesahin): https://github.com/iesahin/xvc
+
+Coming soon to Node.js – node:SQLite module (github.com/nodejs): https://github.com/nodejs/node/pull/53752
+
+Logseq – adding settings for self-hosted sync (github.com/logseq): https://github.com/logseq/logseq/discussions/10733
+
+M3: Massey Meta Machine (github.com/wasm3): https://github.com/wasm3/wasm3/blob/main/docs/Interpreter.md
+
+Show HN: A locally hosted search engine for all your memes (github.com/neonwatty): https://github.com/neonwatty/meme_search
+
+Show HN: I've made LLM generate code for my code generator (github.com/mify-io): https://github.com/mify-io/mify-llm-editor
+
+Brain**** Interpreter in Rust (github.com/sekomer): https://github.com/sekomer/fucker
+
+SchemaFlow: Database schema management / migration tool for SQL-first workflows (github.com/f-prime): https://github.com/f-prime/schemaflow
+
+Himalaya – a Rust CLI to manage emails (github.com/soywod): https://github.com/soywod/himalaya
+
+Show HN: Blitzping – A far faster nping/hping3 SYN-flood alternative with CIDR (github.com/thraetaona): https://github.com/Thraetaona/Blitzping
+
+WhatWeb: Next Generation Web Scanner (2021) (github.com/urbanadventurer): https://github.com/urbanadventurer/WhatWeb
+
+My Notes About: A Curious Moon by Rob Conery (github.com/makomweb): https://github.com/makomweb/curious-moon-exercise
+
+Go Embeddable Redis Alternative (github.com/echovault): https://github.com/EchoVault/EchoVault
+
+Show HN: CLI app for document summary, search and natural language queries (github.com/dylandhall): https://github.com/dylandhall/local-embeddings
+
+Gyopak/Sidellama (github.com/gyopak): https://github.com/gyopak/sidellama
+
+RAG for Multimodal LLMs (github.com/fzliu): https://github.com/fzliu/radient/blob/main/examples/rag_for_multimodal_llms.md
+
+Serves files from GitHub, Bitbucket and Gitlab (github.com/neoascetic): https://github.com/neoascetic/rawgithack
+
+Show HN: Minigrad – a small neural network lib in Golang (github.com/0verread): https://github.com/0verread/minigrad
+
+Panic Portal is a software designed to enable emergency switch (github.com/haydenbanz): https://github.com/haydenbanz/PanicPortal
+
+It's quite fascinating – I fit into a 17.6 MB text file (github.com/0x77dev): https://github.com/0x77dev/dna
+
+Show HN: CMS and other features built with Laravel and livewire (github.com/oitcode): https://github.com/oitcode/Cbswei
+
+I need opinions about my project AI PHP WordPress (github.com/berchj): https://github.com/berchj/AIEntries
+
+Helix (editor) 24.07 is out (github.com/helix-editor): https://github.com/helix-editor/helix/blob/master/CHANGELOG.md
+
+Show HN: I'm measuring energy usage with time during command execution (github.com/zimeg): https://github.com/zimeg/emporia-time
+
+Plot: A minimal terminal charting tool (github.com/archiewood): https://github.com/archiewood/plot
+
+Cloc: Count lines (blank, comment, and physical) of source code (github.com/aldanial): https://github.com/AlDanial/cloc
+
+Show HN: I built a Terraform State remote backend on Cloudflare Workers (github.com/willswire): https://github.com/willswire/estado
+
+Show HN: SchemaFlow – ORM-style migrations for SQL-first developers (github.com/f-prime): https://github.com/f-prime/schemaflow
+
+I made a keyboard shortcut window move/resize tool for Windows (github.com/richardstefun): https://github.com/richardstefun/Neodymium
+
+TUI for Managing Bluetooth on Linux (github.com/pythops): https://github.com/pythops/bluetui
+
+Show HN: Clio, Copilot for DevOps CLIs (github.com/gptscript-ai): https://github.com/gptscript-ai/clio
+
+Xterm.js – open-source terminal for the web (github.com/xtermjs): https://github.com/xtermjs/xterm.js
+
+A (not so) small library for terminal based game development (github.com/pygamelib): https://github.com/pygamelib/pygamelib
+
+Fednow vs. UPI vs. Pix – the fastest payment experience for users (github.com/juspay): https://github.com/juspay/hyperswitch/wiki/Fednow-vs-Pix-vs-UPI-%E2%80%90-The-fastest-payment-experience-for-users
+
+Show HN: Top GitHub Repositories browser with a book like Markdown reading UX (githubreader.org): https://githubreader.org/render?url=https%3A%2F%2Fgithub.com%2Fagdaily%2Fgithub-reader
+
+Space: A fast disk space analyzer and cleaner powered by Rust (github.com/emilevr): https://github.com/emilevr/space
+
+Show HN: V1.0.0 Release DuffMan – Fuzzer for Postman Collection (github.com/kmarkela): https://github.com/kmarkela/duffman
+
+Werewolf Multi-Agents Arena (github.com/xuyuzhuang11): https://github.com/xuyuzhuang11/Werewolf
+
+Limbo is a work-in-progress, in-process OLTP DBMS, compatible with SQLite (github.com/penberg): https://github.com/penberg/limbo
+
+Show HN: SwimOS Rust – A framework for real-time streaming data applications (github.com/swimos): https://github.com/swimos/swim-rust
+
+Show HN: Asstrace – tampering-first strace-like tool (github.com/bieganski): https://github.com/bieganski/asstrace
+
+AQLM and PV-Tuning: methods that compress LLMs by 8 times, retain 95% quality (github.com/vahe1994): https://github.com/Vahe1994/AQLM
+
+Perpetual: Self-generalizing gradient boosting machine algorithm (github.com/perpetual-ml): https://github.com/perpetual-ml/perpetual
+
+Run Llama 3 405B on home cluster (Distributed Llama) (github.com/b4rtaz): https://github.com/b4rtaz/distributed-llama
+
+BetterDisplay for macOS: Flexible HiDPI scaling and more (github.com/waydabber): https://github.com/waydabber/BetterDisplay
+
+All About Recurrence! (github.com/bmoeskau): https://github.com/bmoeskau/Extensible/blob/master/recurrence-overview.md
+
+Free UK Global Talent visa guide (github.com/aigoncharov): https://github.com/aigoncharov/uk-global-talent-visa-guide
+
+Top Chinese PhD's Career Built on Academic Deception (github.com/shiarthur03): https://github.com/ShiArthur03/ShiArthur03/blob/main/README_ENG.md
+
+Show HN: C# .NET Library for Anthropic (github.com/betalgo): https://github.com/betalgo/Anthropic
+
+Show HN: DOM to Semantic Markdown – For LLMs (github.com/romansky): https://github.com/romansky/dom-to-semantic-markdown
+
+Writing Tests with LLM (gist.github.com): https://gist.github.com/ikouchiha47/b0fe05e134b50db5f1acea8841f13ba8
+
+ModelClash: Dynamic LLM Evaluation Through AI Duels (github.com/mrconter1): https://github.com/mrconter1/model-clash
+
+Multimodal RAG (With Chameleon 7B) (github.com/fzliu): https://github.com/fzliu/radient/blob/main/examples/multimodal_rag_with_chameleon_7b.md
+
+SQLite-jiff: SQLite extension for timezones and complex durations (github.com/asg017): https://github.com/asg017/sqlite-jiff
+
+New Signs of Satoshi (gist.github.com): https://gist.github.com/johnzweng/09aa944d9379607ce2442c8199034b59
+
+AI Coding Intern (github.com/hrishioa): https://github.com/hrishioa/mandark
+
+Tree for Unix/Linux (github.com/old-man-programmer): https://github.com/Old-Man-Programmer/tree
+
+TorchLens–package for visualizing nearly any PyTorch model in 1 line of code (github.com/johnmarktaylor91): https://github.com/johnmarktaylor91/torchlens
+
+Slurm: Open-source cluster resource management and job scheduling system (github.com/schedmd): https://github.com/SchedMD/slurm
+
+Show HN: Lunix – a Unix-like hobby simulation OS (github.com/noahdossan): https://github.com/noahdossan/Lunix
+
+Sandboxed kernel mode WebAssembly runtime (2020) (github.com/wasmerio): https://github.com/wasmerio/kernel-wasm
+
+Show HN: Lisp in C# (github.com/codr7): https://github.com/codr7/sharpl
+
+Rusty-feedback: README for rust port of Golang web framework (github.com/andrewarrow): https://github.com/andrewarrow/rusty-feedback
+
+Rename files by their contents using local LLM (github.com/ozgrozer): https://github.com/ozgrozer/ai-renamer
+
+Show HN: Yaet – A terminal that can display web pages (github.com/heyputer): https://github.com/HeyPuter/yaet
+
+Splitting Words Correctly in C# (github.com/clipperhouse): https://github.com/clipperhouse/uax29.net
+
+Terminal Doom (github.com/cryptocode): https://github.com/cryptocode/terminal-doom
+
+Timeshift: System Restore Tool for Linux (github.com/linuxmint): https://github.com/linuxmint/timeshift
+
+Show HN: Cloving – CLI Code Generation with AI (github.com/cloving-ai): https://github.com/cloving-ai/cloving-cli
+
+Show HN: Open-source security automation platform (github.com/shuffle): https://github.com/Shuffle/Shuffle
+
+Swift-Transformers (github.com/huggingface): https://github.com/huggingface/swift-transformers
+
+Netflix has open-sourced its Maestro Workflow Orchestrator (github.com/netflix): https://github.com/Netflix/maestro
+
+StandardRat (github.com/grandjeanlab): https://github.com/grandjeanlab/StandardRat
+
+Show HN: OpenDataCapture an electronic data capture platform for data collection (github.com/douglasneuroinformatics): https://github.com/DouglasNeuroInformatics/OpenDataCapture
+
+Azure Llama 3.1 Benchmarks (github.com/azure): https://github.com/Azure/azureml-assets/pull/3180/files
+
+Audapolis: Edit audio files by transcript, not waveform (github.com/bugbakery): https://github.com/bugbakery/audapolis
+
+LLM, MultiModal, and Agent Tools for ComfyUI (github.com/get-salt-ai): https://github.com/get-salt-AI/SaltAI_Language_Toolkit
+
+Okapi: A lightweight performant JavaScript parser for Rust and WASM (github.com/thegreatercurve): https://github.com/thegreatercurve/okapi
+
+Show HN: Mergeable - A better inbox for GitHub pull requests (github.com/pvcnt): https://github.com/pvcnt/mergeable
+
+Show HN: Manage LLM providers while factoring in Cost and Speed (github.com/lytix-labs): https://github.com/Lytix-Labs/optimodel
+
+Zero/Minimal overhead static/const branching (github.com/boost-ext): https://github.com/boost-ext/sb
+
+Fontra – a browser-based font editor (github.com/googlefonts): https://github.com/googlefonts/fontra
+
+Incident Post-Mortem Process (github.com/mrsimonemms): https://github.com/mrsimonemms/post-mortems
+
+Novel ZIP method slashes compression time x10 (github.com/gregsh): https://github.com/gregsh/parallel-zip
+
+Show HN: AI Chat Website with NextJS (github.com/aidbase): https://github.com/Aidbase/ai-chat-website
+
+Selenized color palette: Solarized redesigned (github.com/jan-warchol): https://github.com/jan-warchol/selenized
+
+SQLx: Async, pure Rust SQL crate, compile-time checked queries without a DSL (github.com/launchbadge): https://github.com/launchbadge/sqlx
+
+Bitbucket Has Problems – The Deployment History View (gist.github.com): https://gist.github.com/phatsk/6346d77e391dead27877cb560d06d4da
+
+Show HN: Clio, Copilot for DevOps CLIs (github.com/gptscript-ai): https://github.com/gptscript-ai/clio
+
+Xterm.js – open-source terminal for the web (github.com/xtermjs): https://github.com/xtermjs/xterm.js
+
+A (not so) small library for terminal based game development (github.com/pygamelib): https://github.com/pygamelib/pygamelib
+
+Fednow vs. UPI vs. Pix – the fastest payment experience for users (github.com/juspay): https://github.com/juspay/hyperswitch/wiki/Fednow-vs-Pix-vs-UPI-%E2%80%90-The-fastest-payment-experience-for-users
+
+Show HN: Top GitHub Repositories browser with a book like Markdown reading UX (githubreader.org): https://githubreader.org/render?url=https%3A%2F%2Fgithub.com%2Fagdaily%2Fgithub-reader
+
+Space: A fast disk space analyzer and cleaner powered by Rust (github.com/emilevr): https://github.com/emilevr/space
+
